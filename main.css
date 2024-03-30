@@ -109,3 +109,7 @@ p {
   .collapsibleset{
     width : 70%;
   }
+
+*{
+    font-size: large;
+}

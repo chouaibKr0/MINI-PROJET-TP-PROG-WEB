@@ -46,3 +46,6 @@ h1, h2{
     margin :10px;
     padding-top: 10px;
 }
+*{
+    font-size: large;
+}
