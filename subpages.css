@@ -25,18 +25,24 @@ li a:hover:not(.active) {
 #active {
     background-color : #4C566A;
 }
+
 body {
     padding : 0px;
     margin : 0px;
-    
 } 
 
 html {
-    background: linear-gradient(#D8DEE9, #E5E9F0, #ECEFF4);
+    font-family: Garamond;
+    background-color: #ECEFF4;
 }
+
 .hyperlinks{
     display: none;
 }
 p {
     margin: 10px;
+}
+h1, h2{
+    margin :10px;
+    padding-top: 10px;
 }
